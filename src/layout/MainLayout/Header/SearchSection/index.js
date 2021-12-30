@@ -128,7 +128,7 @@ const SearchSection = () => {
                             <Box sx={{ ml: 2 }}>
                                 <ButtonBase sx={{ borderRadius: '12px' }}>
                                     <HeaderAvatarStyle variant="rounded" {...bindToggle(popupState)}>
-                                        <IconSearch stroke={1.5} size="1.2rem" />
+                                        <IconSearch stroke={1.5} size="16px" />
                                     </HeaderAvatarStyle>
                                 </ButtonBase>
                             </Box>
@@ -169,14 +169,14 @@ const SearchSection = () => {
                     placeholder="Search"
                     startAdornment={
                         <InputAdornment position="start">
-                            <IconSearch stroke={1.5} size="1rem" color={theme.palette.grey[500]} />
+                            <IconSearch stroke={1.5} size="14px" color={theme.palette.grey[500]} />
                         </InputAdornment>
                     }
                     endAdornment={
                         <InputAdornment position="end">
                             <ButtonBase sx={{ borderRadius: '12px' }}>
                                 <HeaderAvatarStyle variant="rounded">
-                                    <IconAdjustmentsHorizontal stroke={1.5} size="1.3rem" />
+                                    <IconAdjustmentsHorizontal stroke={1.5} size="18px" />
                                 </HeaderAvatarStyle>
                             </ButtonBase>
                         </InputAdornment>

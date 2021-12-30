@@ -33,8 +33,8 @@ const Breadcrumbs = ({ card, divider, icon, icons, maxItems, navigation, rightAl
     const iconStyle = {
         marginRight: theme.spacing(0.75),
         marginTop: `-${theme.spacing(0.25)}`,
-        width: '1rem',
-        height: '1rem',
+        width: '12px',
+        height: '12px',
         color: theme.palette.secondary.main
     };
 
