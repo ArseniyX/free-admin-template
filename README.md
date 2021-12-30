@@ -123,3 +123,4 @@ Please generate a [Github issue](https://github.com/codedthemes/berry-free-react
  - Dribbble [https://dribbble.com/codedthemes](https://dribbble.com/codedthemes)
  - Facebook [https://www.facebook.com/codedthemes](https://www.facebook.com/codedthemes)
  - Twitter [https://twitter.com/codedthemes](https://twitter.com/codedthemes)
+# free-admin-template
